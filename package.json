@@ -6,3 +6,8 @@
     "moysklad": "^0.20.0"
   }
 }
+{
+  "scripts": {
+    "start": "node server.js"
+  }
+}
